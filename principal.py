@@ -39,7 +39,7 @@ for i in range(len(tablaemp)):
         print(tablaemp[i][j], end="\t\t")
 print("\n*******************************")
 
-# Cerrar conexión
+# Cerrar conexión de base de datos
 
 empleado.close()
 
