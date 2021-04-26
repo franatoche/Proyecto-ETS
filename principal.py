@@ -40,6 +40,7 @@ for i in range(len(tablaemp)):
 print("\n*******************************")
 
 # Cerrar conexión
+
 empleado.close()
 
 
